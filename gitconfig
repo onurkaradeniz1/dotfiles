@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = onurkaradeniz1@gmail.com
+	name = Onur Karadeniz
